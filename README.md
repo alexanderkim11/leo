@@ -11,7 +11,7 @@
      <a href="https://twitter.com/ProvableHQ"><img src="https://img.shields.io/twitter/follow/ProvableHQ?style=social"/></a>
 </p>
 <div id="top"></div>
-Leo is an imperative, statically-typed programming language built for writing private applications. t
+Leo is an imperative, statically-typed programming language built for writing private applications.
 
 ## <a name='TableofContents'></a>Table of Contents
 
